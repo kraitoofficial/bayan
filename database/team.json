@@ -1,0 +1,28 @@
+{
+  "teamMembers": [
+    {
+      "name": "Nasim",
+      "role": "Founder & Partner",
+      "image": "nasim.png",
+      "bio": "Nasim has managed development of multi-vendor, classified and drop shipping e-commerce platforms, LMS, media servers, portfolio and blogs. Developed React, NextJs, and WordPress projects.",
+      "skills": ["React", "NextJs", "WordPress", "Portainer", "Figma", "Inkscape"],
+      "social": {
+        "facebook": "https://www.facebook.com/iNasim4Kraito",
+        "linkedin": "https://www.linkedin.com/in/inasim",
+        "github": "https://github.com/inasim4"
+      }
+    },
+    {
+      "name": "Fahim",
+      "role": "Founder & Partner",
+      "image": "fahim.png",
+      "bio": "Fahim is a MERN stack developer with WordPress experience. He have experience with PHP, JavaScript, React, NextJs, Tailwind CSS and Git to develop user-focused web applications. ",
+      "skills": ["NodeJs", "Express", "MongDB", "React", "NextJs", "WordPress"],
+      "social": {
+        "facebook": "https://www.facebook.com/FAHIMX007",
+        "linkedin": "https://www.linkedin.com/in/fahimx",
+        "github": "https://github.com/FAHIMXGG"
+      }
+    }
+  ]
+}
